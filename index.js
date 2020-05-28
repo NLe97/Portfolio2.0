@@ -25,8 +25,8 @@ function toggle_onclick($win,$navbar,width){
 
 var typed = new Typed("#typed" ,{
     strings:[
-        "a Web Developer",
-        "a Software Engineer"
+        "a aspiring Web Developer",
+        "a aspiring Software Engineer"
     ],
     typeSpeed: 50,
     backspeed: 50,
@@ -35,8 +35,8 @@ var typed = new Typed("#typed" ,{
 
 var typed_2 = new Typed("#typed_2" ,{
     strings:[
-        "a Web Developer",
-        "a Software Engineer"
+        "a aspiring Web Developer",
+        "a aspiring Engineer"
     ],
     typeSpeed: 50,
     backspeed: 50,
